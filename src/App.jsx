@@ -209,7 +209,7 @@ function App() {
 
           <div className='mt-20 flex justify-between ml-7 mr-7 pb-7 '>
          <div className='mt-'>
-          <h1 className='text-green-500 font-bold'>Catagories</h1>
+          <h1 className='text-green-500 font-bold'>Categories</h1>
           <h1 className='text-4xl font-bold mt-10'>Enahnce your <br />Music expresnce</h1>
           <img className='mt-10' src="/Frame 601.png" alt="" />
             <button
